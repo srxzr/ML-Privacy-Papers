@@ -7,3 +7,14 @@ Using aggregation to predict the output. So you train different models on differ
 
 [![Theoretical](https://i.imgur.com/IP38qWp.png)]
 
+
+[{
+  "name" : "Uber Emojis",
+  "source": "http://uber-site.com/",
+  "copyright": "optional",
+  "license": "?"
+},{
+  "url": "https://cloud.githubusercontent.com/assets/...1234.gif",
+  "labels": "first emoji name label1 label2",
+  "name": "first_emoji_name"
+}]
